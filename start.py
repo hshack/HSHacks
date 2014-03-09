@@ -20,7 +20,7 @@ def check(var):
 #		else:
 #			return False
 draw()
-cprint('YOU HAVE STARTED MEMBEAN! CONGRATULATIONS!', 'red')
+cprint('YOU HAVE STARTED WORD LEARNING! CONGRATULATIONS!', 'red')
 draw()
 cprint('This test will give you random words, and you have to say whether they are real or not.', 'yellow')
 draw()
